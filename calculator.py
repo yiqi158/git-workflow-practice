@@ -1,5 +1,7 @@
 # calculator.py
 
+print("Welcome to the Awesome Calculator App!")
+
 def add(a, b):
     """This function adds two numbers."""
     return a + b
